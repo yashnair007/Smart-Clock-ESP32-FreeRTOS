@@ -1,0 +1,9 @@
+NTPClient by Fabrice Weinberg
+
+Adafruit Unified Sensor by Adafruit...
+
+DHT sensor library by Adafruit
+
+LiquidCrystal I2C by Frank de Brabander
+
+Time by Michael Margolis
